@@ -429,12 +429,13 @@
     text-align: center;
   }
   .feature-two-box {
-    width: 95vw;
+    width: 90vw;
   }
   .feature-two > .image > button {
     margin: auto;
     margin-top: -60px;
     margin-bottom: 50px;
+    width: auto;
     height: auto;
   }
 
